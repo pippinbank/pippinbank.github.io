@@ -4,28 +4,18 @@ title: Something Exciting Coming Soon
 ---
 
 Welcome to Pippin 🐶 <br />
-A better way to bnak.
+A better way to bnak. <br />
+We’re not a bank. <br />
 
-We’re not a bank.
 
---
+Virtual branches. <br />
+Videochat support. <br />
+Revolutionizing banking. <br />
 
-Virtual branches.
 
-Videochat support.
-
-Revolutionizing banking.
-
---
-
-4% on Chipotle+Starbucks
-
-3% on Netflix+Spotify
-
-2% on Uber+Uber Eats
-
-1% on Target+Amazon
-
---
+4% on Chipotle+Starbucks <br />
+3% on Netflix+Spotify <br />
+2% on Uber+Uber Eats <br />
+1% on Target+Amazon <br />
 
 Check back later for more information :)
