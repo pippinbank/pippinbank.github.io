@@ -9,6 +9,7 @@ A better way to bnak.
 
 We’re not a bank.
 
+--
 
 Virtual branches.
 
@@ -16,6 +17,7 @@ Videochat support.
 
 Revolutionizing banking.
 
+--
 
 4% on Chipotle+Starbucks
 
@@ -25,5 +27,6 @@ Revolutionizing banking.
 
 1% on Target+Amazon
 
+--
 
 Check back later for more information :)
