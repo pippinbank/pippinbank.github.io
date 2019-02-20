@@ -3,8 +3,7 @@ layout: post
 title: Something Exciting Coming Soon
 ---
 
-Welcome to Pippin 🐶 
-
+Welcome to Pippin 🐶 \newline
 A better way to bnak.
 
 We’re not a bank.
